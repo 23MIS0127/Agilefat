@@ -1,3 +1,3 @@
 FROM nginx:latest
-COPY university.html /usr/share/nginx/html/university.html
+COPY university.html /user/share/nginx/html/university.html
 EXPOSE 80
